@@ -1,3 +1,3 @@
 # Snake
 Er ikke særlig skarp.  
-Gå hjem, Jakob
+Go hjem, Jakob
