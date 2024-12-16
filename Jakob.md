@@ -1,2 +1,2 @@
 # Snake
-Er ikke særlig skarp
+Er ikke særlig skarp.
